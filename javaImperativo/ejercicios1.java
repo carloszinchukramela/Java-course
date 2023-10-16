@@ -15,7 +15,7 @@ public class ejercicios1 {
         if(suma1%2 == 0){
             System.out.println("El resultado es " + suma1 + " y es par ");
         }else{
-            System.out.println("el resultado es " + suma1 + " y es impar ");
+            System.out.println("el resultado es " + suma1 + " y es impar  ");
         }
 
         // ej 3 caracteres
