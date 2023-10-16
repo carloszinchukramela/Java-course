@@ -1,4 +1,4 @@
-package programacionImperativa;
+package javaImperativo;
 
 public class ejercicios1 {
     public static void main(String[] args) {
